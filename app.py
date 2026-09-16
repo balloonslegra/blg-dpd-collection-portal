@@ -234,6 +234,7 @@ with tab3:
         total = current_total()
         st.warning(f"Use this only if DPD has not collected today's {total} boxes.")
         if st.button("Email DPD — collection still outstanding", key="escalate"):
+            total = current_total()  # Re-read latest total at the exact moment of sending
             subject = subject_for("escalation")
             body = f"""Hi there,
 
