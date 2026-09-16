@@ -245,6 +245,8 @@ As it is now after 3:00pm, under our shop protocol we contact the depot when our
 We currently have {total} box{"es" if total != 1 else ""} awaiting collection from:
 {COLLECTION_ADDRESS}
 
+OUR STORE CLOSES AND STAFF LEAVE AT 5PM, we need collection before this time. 
+
 These contain inflated, personalised balloons for occasions taking place across the country tomorrow, so they need to enter the DPD network today.
 
 If there is any issue with today's collection, could you please let us know as soon as possible so that we can make alternative arrangements.
